@@ -11,18 +11,11 @@ public class tofindarrayissortedornot {
                  flag = 1;
 
             }
-           
-
-            
         }
         if(flag == 0){
                 System.out.println("array is  sorted");
             }
             else{
-
-            
-
-
         System.out.println("array is not sorted");
             }
     }
