@@ -5,9 +5,6 @@ import java.util.Arrays;
 public class tofinddupilicatenumberinarray {
     // To find array is dup;icate or not 
     public static void main(String[] args) {
-        
-    
-
     int[] arr = {1,1,2,2,3,4,4,5};
 
     int i = 0;
@@ -21,7 +18,5 @@ public class tofinddupilicatenumberinarray {
     System.out.println(Arrays.toString(Arrays.copyOf(arr, i+1)));
 
     }
-
-
-    
 }
+
